@@ -7,7 +7,7 @@ I'm a first-year CS student at HCMUS.
 I enjoy building things, experimenting with new technologies, and working on projects related to AI, computer vision, and software development. 💻
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=FF7A18&vCenter=true&width=560&lines=keep+building%2C+keep+learning;stay+curious%2C+keep+creating;code.+learn.+repeat."
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=FF7A18&vCenter=true&width=560&lines=too+curious+to+stay+normal.;keep+building%2C+keep+learning;stay+curious%2C+keep+creating;code.+learn.+repeat."
   alt="Typing SVG"
 />
 
@@ -47,3 +47,8 @@ const long = {
 #### AI / CV Frameworks & Tools
 
 <p> <img src="https://skillicons.dev/icons?i=pytorch,opencv,git,github" /> </p>
+
+
+<p align="center">
+  <img src="./assets/footer.gif" width="500" alt="Footer GIF">
+</p>
