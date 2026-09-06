@@ -1,8 +1,8 @@
 # Hi, I'm Long 👋
 
-I'm a Computer Science student at HCMUS, currently exploring AI, computer vision, and software development.
+I'm a Computer Science student at HCMUS.
 
-I enjoy building practical projects, learning new technologies, and improving through hands-on experience.
+I enjoy building things, experimenting with new technologies, and working on projects related to AI, computer vision, and software development.
 
 ## Connect with me
 
